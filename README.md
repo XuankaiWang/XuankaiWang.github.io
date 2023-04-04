@@ -1,2 +1,1 @@
-# FZU-flying-book
-[欢迎来到福州大学飞跃手册！](https://fzu-fly.online)
+# 应用统计自学指南
