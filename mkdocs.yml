@@ -10,70 +10,23 @@ repo_name: stats-self-learning # 右上角的名字
 # [Navigtion] 左侧文章导航
 nav:
   # - index.md
-  - 关于本站:
+  - 前言:
     - about/index.md
-    - 主编作者: about/people.md
-    - 我们的致谢: about/thanks.md
+    - 其他: about/other.md
     
-  - 飞跃重洋:
-    - flying/index.md
-    - 准备工作:
-      - 信息科普:
-        - 欧陆留学科普帖: flying/prepare/common/eu-common-wzr.md
-
-
-    - 英港新合集:
-      - 英港新数据总览: flying/uk-hk.md
-      - 英国案例:
-        - Cambridge EECS @23fall: flying/hk/2023/temp.md
+  - 数学分析:
+    - To be set:
       
-      - 港新案例:
-        - HKUST SE @23fall: flying/uk/2023/temp.md
-
-    - 北美合集:
-      - 北美数据总览: flying/na.md
-      - 北美案例:
-        - MIT Robotics @23fall: flying/na/2023/temp.md      
-
-    - 欧陆合集: 
-      - 欧陆数据总览: flying/eu.md
-      - 申请案例:
-        - ETH 自动化 @23fall: flying/eu/2023/temp.md
-    
-    - 日韩合集:
-      - 日韩数据总览: flying/jk.md
-      - 申请案例:
-        - 东京工业大学 控制 @23fall: flying/jk/2023/temp.md
 
 
-
-  - 国内升研:
-    - sprint/index.md
-    - 关于保研: sprint/baoyan/index.md
-
-    - 关于考研: sprint/kaoyan/index.md
+  - 高等代数:
+    - To be set:
 
   
   - 修读指北:
-    - learning/index.md
-    - MIEC专业课: learning/miec-gpa/index.md
+    - To be set:
 
-    - FZU公共课: learning/public/index.md
-
-    - 关于竞赛: learning/competition/index.md
-
-    - 关于科研: learning/lab/index.md
-
-  - 实习就业:
-    - work/index.md
-    - 大三实习学期:
-      - work/intern/intern.md
-    - 秋招包裹分享:
-      - work/package/index.md
-      - 2023秋招: 
-        - 星网锐捷12k 15薪: work/package/2023/temp.md
-  - 加入创作:
-    - join/index.md
+  
 
 
 
@@ -115,20 +68,11 @@ copyright: © 2023 FZU-MIECer Copyright # 左下角的版权声明
 extra:
   social: # icons
     - icon: fontawesome/brands/docker
-      link: https://caihanlin.com/
+      link: https://starryious.github.io/KamdenWang2003.github.io/
       name: Website | HanlinCAI
     - icon: fontawesome/brands/github
-      link: https://github.com/HanlinCAI/FZU-flying-book
+      link: https://github.com/XuankaiWang/stats-self-learning
       name: GitHub | FZU-flying-book
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/lancecai2002
-      name: Twitter | lancecai2002
-    # - icon: fontawesome/brands/bilibili
-      # link: https://space.bilibili.com/594030035
-      # name: Bilibili | 啊包即将入睡 # 鼠标悬浮提示
-    # - icon: fontawesome/brands/linkedin
-      # link: https://www.linkedin.com/in/hanlin-cai-07b53b23b/
-      # name: Linkedin | hanlin-cai # 鼠标悬浮提示
     
 
 # [Extensions]
@@ -168,4 +112,4 @@ google_analytics:
   - 'UA-35232574'
   - 'auto'
 
-# Lastly Update by Hanlin CAI in 2023/02/03.
+# Lastly Update by Xuankai Wang in 2023/04/04.
