@@ -1,11 +1,11 @@
 # [Info]
-site_name: FZU飞跃手册 # 左上角标题
-site_url: https://fzu-fly.online
-site_author: lancecai
-site_description: FZU-flying-book
+site_name: 应用统计自学指南 # 左上角标题
+site_url: https://XuankaiWang.github.io
+site_author: kamdenwang
+site_description: stats-self-learning
 ## [top-right corner]
-repo_url: https://github.com/HanlinCAI/FZU-flying-book # 右上角点击跳转的链接
-repo_name: FZU-flying-book # 右上角的名字
+repo_url: https://github.com/XuankaiWang/stats-self-learning # 右上角点击跳转的链接
+repo_name: stats-self-learning # 右上角的名字
 
 # [Navigtion] 左侧文章导航
 nav:
