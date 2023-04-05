@@ -9,23 +9,12 @@ repo_name: stats-self-learning # 右上角的名字
 
 # [Navigtion] 左侧文章导航
 nav:
-  # - index.md
+  #- index.md
   - 前言:
     - about/index.md
     - 其他: about/other.md
     
-  - 数学分析:
-    - To be set:
-      
-
-
-  - 高等代数:
-    - To be set:
-
-  
-  - 修读指北:
-    - To be set:
-
+    
   
 
 
