@@ -14,10 +14,30 @@ nav:
     - about/index.md
     - 其他: about/other.md
     
-    
+  - 实用工具:
+    - 在线工具箱: "tool/online/index.md"
+    - 编辑工具: "tool/edit/index.md"
+    - 软件: "tool/software/index.md"
+    - Mathematica: "tool/ChatGPT/index.md"
+    - ChatGPT: "tool/ChatGPT/index.md"
+    - Docker: "tool/Docker/index.md"
+    - Notion: "tool/Notion/index.md"
+    - 发现与想象: "tool/imagine/index.md"
+    - 日常学习工作流: "tool/study/index.md"
+
+  - 凸优化:
+    - "Standford EE364A: Convex Optimization": "凸优化/convex.md"
   
+  - 离散数学与应用概率论:
+    - "UCB CS70: discrete Math and probability theory": "discrete_math/CS70.md"
 
+  - 信息论相关: 
+    - "MIT6.050J: Information theory and Entropy": "信息论相关/infomation_theory_and_entropy.md"
+    - "The Information Theory, Pattern Recognition, and Neural Networks": "信息论相关/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
 
+  - 数据科学:
+    - "UCB Data100: Principles and Techniques of Data Science": "DS/Data100.md"
+    - "UCB Data 8: Foundations of Data Science": "DS/Data8.md"
 
 
 
@@ -52,16 +72,16 @@ theme:
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 
 ## [bottom-left corner]
-copyright: © 2023 FZU-MIECer Copyright # 左下角的版权声明
+copyright: © 2023 NWU-SoMer Copyright # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
     - icon: fontawesome/brands/docker
       link: https://starryious.github.io/KamdenWang2003.github.io/
-      name: Website | HanlinCAI
+      name: Website | XuankaiWang
     - icon: fontawesome/brands/github
       link: https://github.com/XuankaiWang/stats-self-learning
-      name: GitHub | FZU-flying-book
+      name: GitHub | stats-self-learning
     
 
 # [Extensions]
@@ -101,4 +121,4 @@ google_analytics:
   - 'UA-35232574'
   - 'auto'
 
-# Lastly Update by Xuankai Wang in 2023/04/04.
+# Lastly Update by Xuankai Wang in 2023/04/05.
