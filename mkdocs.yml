@@ -25,10 +25,11 @@ nav:
     - Notion: "tool/Notion/index.md"
     - 发现与想象: "tool/imagine/index.md"
     - 日常学习工作流: "tool/study/index.md"
+
   -数学分析(微积分):
-    - "MIT 18.01/18.02: Calculus": "analysis/mit18.01"
+    - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
   - 高等代数(线性代数):
-    - "MIT 18.06: Linear Algebra": "algebra/mit18.06"
+    - "MIT 18.06: Linear Algebra": "algebra/mit18.06.md"
   - 初等数论:
     - "MIT 18.781: Theory Of Numbers": "number_theory/index.md"
   - 微分方程:
@@ -38,11 +39,11 @@ nav:
     - "MIT 18.065: Matrix Methods In Data Analysis, Signal Processing, And Machine Learning": "矩阵数值分析/mit18.065.md"
     - "Stanford CS205A: Mathematical Methods for Computer Vision, Robotics, and Graphics": "矩阵数值分析/cs205a.md"
     - "WSU CSE559I: The art and science of positive definite matrices": "矩阵数值分析/cse559i.md"
-    - "MIT 18.330 : Introduction to numerical analysis": "矩阵数值分析/mit18.330"
+    - "MIT 18.330 : Introduction to numerical analysis": "矩阵数值分析/mit18.330.md"
   - 概率论与随机过程:
     - "NTHU MATH2810: Probability": "probability/math2810.md"
     - "UCB CS126: Probability theory": "probability/UCB-CS126.md"
-    - "Yale Statistics251/551: Stochastic Process": "probability/"
+    - "Yale Statistics251/551: Stochastic Process": "probability/yale251.md"
   - 凸优化:
     - "Standford EE364A: Convex Optimization": "凸优化/convex.md"
   - 离散数学与应用概率论:
