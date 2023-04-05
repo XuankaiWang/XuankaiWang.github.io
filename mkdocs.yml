@@ -26,7 +26,7 @@ nav:
     - 发现与想象: "tool/imagine/index.md"
     - 日常学习工作流: "tool/study/index.md"
 
-  -数学分析(微积分):
+  - 数学分析(微积分):
     - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
   - 高等代数(线性代数):
     - "MIT 18.06: Linear Algebra": "algebra/mit18.06.md"
