@@ -7,34 +7,31 @@ site_description: stats-self-learning
 repo_url: https://github.com/XuankaiWang/stats-self-learning # 右上角点击跳转的链接
 repo_name: stats-self-learning # 右上角的名字
 
+
+
 # [Navigtion] 左侧文章导航
 nav:
   #- index.md
-  - 前言:
-    - about/index.md
-    - 其他: about/other.md
-    
+  - 前言: "index.md"
+  - 如何使用这本书: "guide.md"
+  - 仅供参考的学习路线: "path.md"
   - 实用工具:
     - 在线工具箱: "tool/online/index.md"
     - 编辑工具: "tool/edit/index.md"
     - 软件: "tool/software/index.md"
-    - Mathematica: "tool/ChatGPT/index.md"
+    - Mathematica: "tool/Mathematica/index.md"
     - ChatGPT: "tool/ChatGPT/index.md"
     - Docker: "tool/Docker/index.md"
     - Notion: "tool/Notion/index.md"
     - 发现与想象: "tool/imagine/index.md"
     - 日常学习工作流: "tool/study/index.md"
-
   - 凸优化:
     - "Standford EE364A: Convex Optimization": "凸优化/convex.md"
-  
   - 离散数学与应用概率论:
     - "UCB CS70: discrete Math and probability theory": "discrete_math/CS70.md"
-
   - 信息论相关: 
     - "MIT6.050J: Information theory and Entropy": "信息论相关/infomation_theory_and_entropy.md"
     - "The Information Theory, Pattern Recognition, and Neural Networks": "信息论相关/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
-
   - 数据科学:
     - "UCB Data100: Principles and Techniques of Data Science": "DS/Data100.md"
     - "UCB Data 8: Foundations of Data Science": "DS/Data8.md"
@@ -47,7 +44,7 @@ theme:
   name: material
   palette:
     - scheme: default # 日间模式
-      primary: deep purple # 上方的
+      primary: deep blue # 上方的
       accent: blue # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
@@ -58,14 +55,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: 切换至日间模式
+
   features:
-    - navigation.tabs # 使用Tab来进行分类
+    - header.autohide
+    - navigation.tracking
+    - #navigation.tabs # 使用Tab来进行分类
     - navigation.top # 返回顶部的按钮 在上滑时出现
-    - navigation.indexes # Tab会有一个index.md 而不是在打开Tab时打开第一篇文章
-    - navigation.path #
-    - navigation.top #
+    - #navigation.path #
     - search.suggest # 搜索输入一些字母时推荐补全整个单词
     - search.highlight # 搜索出的文章关键词加入高亮
+    - content.code.annotate
   language: zh # 一些提示性的文字会变成中文
   icon: # 'clound' 右上角图标的另一种样式，需要注释下行
     repo: fontawesome/brands/github
@@ -91,6 +90,7 @@ plugins:
       lang:
         - en
         - ja
+      enable_anchors: true
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
 markdown_extensions:
   - pymdownx.arithmatex: # latex支持
@@ -105,6 +105,9 @@ markdown_extensions:
   - meta # 支持Markdown文件上方自定义标题标签等
   - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details # admonition需要
+  - attr_list
+  - md_in_html
+
 
 extra_javascript:
   # latex支持
@@ -113,6 +116,7 @@ extra_javascript:
   - attach/javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
+  
 extra_css:
   # - attach/css/no-footer.css # 不使用底部的翻页
   - attach/css/unordered-list-symbols.css # multiplt unordered list symbols
