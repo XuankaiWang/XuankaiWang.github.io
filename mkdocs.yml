@@ -15,6 +15,7 @@ nav:
   - 前言: "index.md"
   - 如何使用这本书: "guide.md"
   - 仅供参考的学习路线: "path.md"
+  - 好书推荐: "books.md"
   - 实用工具:
     - 在线工具箱: "tool/online/index.md"
     - 编辑工具: "tool/edit/index.md"
@@ -40,16 +41,27 @@ nav:
     - "Stanford CS205A: Mathematical Methods for Computer Vision, Robotics, and Graphics": "矩阵数值分析/cs205a.md"
     - "WSU CSE559I: The art and science of positive definite matrices": "矩阵数值分析/cse559i.md"
     - "MIT 18.330 : Introduction to numerical analysis": "矩阵数值分析/mit18.330.md"
+  - 数据结构与算法:
+    - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/cs61b.md"
   - 概率论与随机过程:
     - "NTHU MATH2810: Probability": "probability/math2810.md"
     - "UCB CS126: Probability theory": "probability/UCB-CS126.md"
     - "Yale Statistics251/551: Stochastic Process": "probability/yale251.md"
+    - "MIT 6.262:Discrete Stochastic Processes": "probability/mit6.262.md"
+  - 测度论(实分析):
+    - "UA Stat571: Probability and Measure": "measure/stat571.md"
+    - "IMPA: Measure Theory": "measure/impa.md"
+  - 统计学:
+    - "MIT 18.650: Statistics For Applications": "stats/mit18.650.md"
+    - "NTHU MATH2820: Statistics": "stats/nthu2820.md"
+  - 机器学习:
+    - "NTU Machine Learning": "ml/ntuml.md"
   - 凸优化:
     - "Standford EE364A: Convex Optimization": "凸优化/convex.md"
   - 离散数学与应用概率论:
     - "UCB CS70: discrete Math and probability theory": "discrete_math/CS70.md"
   - 信息论相关: 
-    - "MIT6.050J: Information theory and Entropy": "信息论相关/infomation_theory_and_entropy.md"
+    - "MIT 6.050J: Information theory and Entropy": "信息论相关/infomation_theory_and_entropy.md"
     - "The Information Theory, Pattern Recognition, and Neural Networks": "信息论相关/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
   - 数据科学:
     - "UCB Data100: Principles and Techniques of Data Science": "DS/Data100.md"
