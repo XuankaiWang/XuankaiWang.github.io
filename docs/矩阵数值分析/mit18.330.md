@@ -16,6 +16,8 @@
 
 这门课的设计者还编写了配套的开源教材（参见下方链接），里面有丰富的 Julia 实例。
 
+如果你觉得 18.330 有点简单, 可以尝试研究生课程 [18.335](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
+
 ## 课程资源
 
 - 课程网站：<https://github.com/mitmath/18330>

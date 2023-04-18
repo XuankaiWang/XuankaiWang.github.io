@@ -23,8 +23,6 @@
 
 [北大数院学习指南](https://docs.qq.com/doc/p/aec47ed20c2170d9f680ceaaf81b2b0c8aa7a2a9)
 
-[CS计算机课程自学资源、教程、路线](https://github.com/eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum)
-
 [南方科技大学飞跃手册](https://sustech-application.com/#/)
 
 [上交生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)

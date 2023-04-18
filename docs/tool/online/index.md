@@ -45,3 +45,7 @@ PNG 转 ICO : https://www.aconvert.com/cn/icon/png-to-ico/
 词源: https://www.bibletools.org/index.cfm/fuseaction/Def.default
 
 Youtube视频下载: https://yout.com/
+
+自学数学的网站: https://brilliant.org/
+
+[有哪些高质量的自学网站？](https://www.zhihu.com/question/41476832/answer/91127489)

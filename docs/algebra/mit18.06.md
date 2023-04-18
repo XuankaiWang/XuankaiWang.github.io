@@ -18,7 +18,7 @@
 
 
 
-配合油管数学网红 **3Blue1Brown** 的[线性代数的本质](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)系列视频食用更佳。
+配合油管数学网红 **3Blue1Brown** 的[线性代数的本质](https://www.3blue1brown.com/topics/linear-algebra)系列视频食用更佳。
 
 ## 课程资源
 

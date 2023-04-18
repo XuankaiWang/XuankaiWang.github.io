@@ -17,6 +17,12 @@ RL、Compression、Life-Long Learning 以及 Meta Learning。可谓是包罗万�
 
 大家也大可不必担心作业的难度，因为所有作业都会提供助教的示例代码，帮你完成数据处理、模型搭建等，你只需要在其基础上进行适量的修改即可。这也是一个学习别人优质代码的极好机会，大家需要水课程大作业的话，这里也是一个不错的资料来源。
 
+配合3B1B [神经网络系列](https://www.3blue1brown.com/topics/neural-networks)
+
+[全世界最简单的机器学习入门指南](https://zhuanlan.zhihu.com/p/24339995), [我的机器学习入门学习清单及路线](https://zhuanlan.zhihu.com/p/27018536), [从零开始掌握Python机器学习：十四步教程](https://zhuanlan.zhihu.com/p/25761248)
+
+
+
 ## 课程资源
 
 - 课程网站：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
@@ -27,3 +33,9 @@ RL、Compression、Life-Long Learning 以及 Meta Learning。可谓是包罗万�
 ## 资源汇总
 
 我在学习这门课中用到的所有资源和作业实现都汇总在 [[starryious/NTU-Machine-Learning](https://github.com/starryious/NTU-Machine-Learning) 中。
+
+可以参考
+
+[JustFollowUs/Machine-Learning (github.com)](https://github.com/JustFollowUs/Machine-Learning)
+
+[Sakura-gh/ML-notes: notes about machine learning (github.com)](https://github.com/Sakura-gh/ML-notes)

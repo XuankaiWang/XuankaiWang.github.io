@@ -21,6 +21,8 @@
   https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
 
   https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/
+  
+  https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/
 
 ## 资源汇总
 

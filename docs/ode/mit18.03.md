@@ -7,6 +7,8 @@
 - 课程难度：🌟🌟
 - 预计学时：
 
+配合 3B1B [微分方程系列](https://www.3blue1brown.com/topics/differential-equations)
+
 ## 课程资源
 
 - 课程网站：<https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/syllabus/>

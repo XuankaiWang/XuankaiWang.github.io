@@ -31,8 +31,11 @@ nav:
     - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
   - 高等代数(线性代数):
     - "MIT 18.06: Linear Algebra": "algebra/mit18.06.md"
+    - "Algebra": "algebra/ladr.md"
   - 初等数论:
     - "MIT 18.781: Theory Of Numbers": "number_theory/index.md"
+  - 编程入门:
+    - "编程入门": "coding/coding.md"
   - 微分方程:
     - "MIT 18.03: Differential Equations": "ode/mit18.03.md"
     - "MIT RES.18-009: Learn Differential Equations: Up Close With Gilbert Strang And Cleve Moler": "ode/mit18.009.md" 
@@ -42,12 +45,14 @@ nav:
     - "WSU CSE559I: The art and science of positive definite matrices": "矩阵数值分析/cse559i.md"
     - "MIT 18.330 : Introduction to numerical analysis": "矩阵数值分析/mit18.330.md"
   - 数据结构与算法:
-    - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/cs61b.md"
+    - "数据结构与算法": "数据结构与算法/cs61b.md"
   - 概率论与随机过程:
     - "NTHU MATH2810: Probability": "probability/math2810.md"
     - "UCB CS126: Probability theory": "probability/UCB-CS126.md"
     - "Yale Statistics251/551: Stochastic Process": "probability/yale251.md"
     - "MIT 6.262:Discrete Stochastic Processes": "probability/mit6.262.md"
+    - "UIUC Math564: Applied Stochastic Processes": "probability/uiuc564.md"
+    - "MIT 6.041SC: Probabilistic Systems Analysis And Applied Probability": "probability/mit6.041.md"
   - 测度论(实分析):
     - "UA Stat571: Probability and Measure": "measure/stat571.md"
     - "IMPA: Measure Theory": "measure/impa.md"
@@ -56,6 +61,8 @@ nav:
     - "NTHU MATH2820: Statistics": "stats/nthu2820.md"
   - 机器学习:
     - "NTU Machine Learning": "ml/ntuml.md"
+    - "Coursera: Machine Learning": "ml/coursera.md"
+    - "Stanford CS229: Machine Learning": "ml/cs229.md"
   - 凸优化:
     - "Standford EE364A: Convex Optimization": "凸优化/convex.md"
   - 离散数学与应用概率论:

@@ -8,6 +8,8 @@
 - 课程难度：🌟🌟🌟🌟
 - 预计学时：
 
+学习前最后过一遍集合论的内容, 不用太深入(逃). 可以结合 [Probability Tutorials](http://www.probability.net/) 作为补充和练习. 两者都是将测度论和高等概率论的知识结合在一起讲. 可以算的上是真正踏入纯数学的大门的一门课.
+
 ## 课程资源
 
 - 课程视频: <https://www.youtube.com/watch?v=eyWLekPzzuE>
@@ -15,4 +17,3 @@
 
 ## 资源汇总
 
-* 可以结合 [Probability Tutorials](http://www.probability.net/) 作为补充和练习.

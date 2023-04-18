@@ -1,8 +1,12 @@
 # ChatGPT Prompt
 
-参考: https://github.com/f/awesome-chatgpt-prompts
+参考:
+
+ https://github.com/f/awesome-chatgpt-prompts
 
 https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique
+
+https://zhuanlan.zhihu.com/p/616157476
 
 ## 英语学习
 
