@@ -1,0 +1,1 @@
+[Statistical Computing (cmu.edu)](https://www.stat.cmu.edu/~ryantibs/statcomp/)

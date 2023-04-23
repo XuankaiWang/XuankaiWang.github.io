@@ -28,7 +28,7 @@ RL、Compression、Life-Long Learning 以及 Meta Learning。可谓是包罗万�
 - 课程网站：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
 - 课程视频：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>，每节课的链接参见课程网站
 - 课程教材：无
-- 课程作业：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>，15 个 lab，几乎覆盖了主流深度学习的所有领域
+- 课程作业：<[ML 2023 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)>，15 个 lab，几乎覆盖了主流深度学习的所有领域
 
 ## 资源汇总
 

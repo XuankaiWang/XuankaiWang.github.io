@@ -2,15 +2,17 @@
 
 可以参考: [实用工具箱 ](https://csdiy.wiki/必学工具/tools/)    [效率工具列表](http://blog.luckly-mjw.cn/tool-show/index.html)
 
-图片处理: https://www.fotor.com/cn/
+图片处理:
 
-​				https://www.iloveimg.com/zh-cn/photo-editor
+ https://www.fotor.com/cn/
 
-​				[使透明背景 - 免费工具 (imageonline.co)](https://transparent.imageonline.co/cn/)
+https://www.iloveimg.com/zh-cn/photo-editor
+
+[使透明背景 - 免费工具 (imageonline.co)](https://transparent.imageonline.co/cn/)
 
 图床: https://imgloc.com/
 
-壁纸: https://imgloc.com/
+壁纸: [Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)
 
 图片拼接: http://zuohaotu.com/image-merge.aspx
 
@@ -18,11 +20,13 @@
 
 修剪和剪辑音频: https://mp3cut.net/cn/
 
-PDF类文件处理: https://smallpdf.com/cn/merge-pdf 
+PDF类文件处理:
 
-​						   https://www.ilovepdf.com/zh-tw/remove-pages
+ https://smallpdf.com/cn/merge-pdf 
 
-​							[扫描全能王](https://www.camscanner.com/tools/pictopdf)
+https://www.ilovepdf.com/zh-tw/remove-pages
+
+[扫描全能王](https://www.camscanner.com/tools/pictopdf)
 
 OCR识别: https://pearocr.com/#/
 
