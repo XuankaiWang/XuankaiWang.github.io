@@ -13,14 +13,13 @@ repo_name: stats-self-learning # 右上角的名字
 nav:
   #- index.md
   - 前言: "index.md"
-  - 如何使用这本书: "guide.md"
+  - 一个仅供参考的学习建议: "guide.md"
   - 好书推荐: "books.md"
   - 实用工具:
     - 在线工具箱: "tool/online/index.md"
     - 计算机语言: "tool/language/index.md"
     - 软件工具: "tool/software/index.md"
     - ChatGPT: "tool/ChatGPT/index.md"
-    - 日常学习工作流: "tool/study/index.md"
 
   - 数学分析(微积分):
     - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
