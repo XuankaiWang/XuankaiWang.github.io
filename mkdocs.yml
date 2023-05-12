@@ -64,6 +64,7 @@ nav:
     - "NTU Machine Learning": "ml/ntuml.md"
     - "Coursera: Machine Learning": "ml/coursera.md"
     - "Stanford CS229: Machine Learning": "ml/cs229.md"
+    - "Supplementary": "ml/sup.md"
   - 凸优化:
     - "Stanford EE364A: Convex Optimization": "凸优化/stanford.md"
     - "CMU Convex Optimization": "凸优化/cmu.md"
