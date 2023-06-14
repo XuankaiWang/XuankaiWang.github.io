@@ -1,5 +1,5 @@
 # [Info]
-site_name: 应用统计自学指南 # 左上角标题
+site_name: 统计自学指南 # 左上角标题
 site_url: https://XuankaiWang.github.io
 site_author: kamdenwang
 site_description: stats-self-learning
@@ -49,7 +49,7 @@ nav:
     - "UIUC Math564: Applied Stochastic Processes": "probability/uiuc564.md"
     - "MIT 6.041SC: Probabilistic Systems Analysis And Applied Probability": "probability/mit6.041.md"
     - "Supplementary": "probability/sup.md"
-  - 测度论(实分析):
+  - 高等概率论与测度论:
     - "UA Stat571: Probability and Measure": "measure/stat571.md"
     - "IMPA: Measure Theory": "measure/impa.md"
     - "Supplementary": "measure/sup.md"
@@ -86,6 +86,7 @@ nav:
   - 线性模型:
     - "NTHU STAT5410: Linear Models": "linear/stat5410.md"
     - "UA Stat378: Applied Regression Analysis": "linear/stat378.md"
+    - "Yale Statistics312/612: Linear Models": "linear/yale312.md"
 
 
 
