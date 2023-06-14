@@ -1,3 +1,9 @@
+## 推荐书籍
+
+ISLR
+
+***
+
  [3B1B神经网络系列](https://www.3blue1brown.com/topics/neural-networks)  
 
 [从零开始掌握Python机器学习：十四步教程](https://zhuanlan.zhihu.com/p/25761248)  
