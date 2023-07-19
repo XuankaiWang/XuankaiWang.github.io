@@ -15,12 +15,6 @@ nav:
   - 前言: "index.md"
   - 一个仅供参考的学习建议: "guide.md"
   - 好书推荐: "books.md"
-  - 实用工具:
-    - 在线工具箱: "tool/online/index.md"
-    - 计算机语言: "tool/language/index.md"
-    - 软件工具: "tool/software/index.md"
-    - ChatGPT: "tool/ChatGPT/index.md"
-
   - 数学分析(微积分):
     - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
   - 高等代数(线性代数):
@@ -30,6 +24,8 @@ nav:
     - "MIT 18.781: Theory Of Numbers": "number_theory/index.md"
   - 编程入门:
     - "编程入门": "coding/coding.md"
+    - "计算机语言": "coding/coding_language.md"
+    - "软件工具": "coding/software.md"
     - "CMU Statistical Computing": "coding/cmu.md"
   - 微分方程:
     - "MIT 18.03: Differential Equations": "ode/mit18.03.md"
@@ -43,10 +39,10 @@ nav:
     - "数据结构与算法": "数据结构与算法/cs61b.md"
   - 概率论与随机过程:
     - "NTHU MATH2810: Probability": "probability/math2810.md"
-    - "UCB CS126: Probability theory": "probability/UCB-CS126.md"
     - "Yale Statistics251/551: Stochastic Process": "probability/yale251.md"
     - "MIT 6.262:Discrete Stochastic Processes": "probability/mit6.262.md"
     - "UIUC Math564: Applied Stochastic Processes": "probability/uiuc564.md"
+    - "UCB CS126: Probability theory": "probability/UCB-CS126.md"
     - "MIT 6.041SC: Probabilistic Systems Analysis And Applied Probability": "probability/mit6.041.md"
     - "Supplementary": "probability/sup.md"
   - 高等概率论与测度论:
@@ -54,7 +50,6 @@ nav:
     - "IMPA: Measure Theory": "measure/impa.md"
     - "Supplementary": "measure/sup.md"
   - 统计推断与数理统计:
-    - "MIT 18.650: Statistics For Applications": "stats/mit18.650.md"
     - "NTHU MATH2820: Statistics": "stats/nthu2820.md"
     - "UCB Statistics210: Theoretical Statistics": "stats/ucb210.md"
     - "UW STAT512: Introduction to Statistical Inference": "stats/stat512.md"
