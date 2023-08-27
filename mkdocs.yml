@@ -14,7 +14,6 @@ nav:
   #- index.md
   - 前言: "index.md"
   - 一个仅供参考的学习建议: "guide.md"
-  - 好书推荐: "books.md"
   - 数学分析(微积分):
     - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
   - 高等代数(线性代数):
