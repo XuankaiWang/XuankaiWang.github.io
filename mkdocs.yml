@@ -23,9 +23,6 @@ nav:
     - "MIT 18.781: Theory Of Numbers": "number_theory/index.md"
   - 编程入门:
     - "编程入门": "coding/coding.md"
-    - "计算机语言": "coding/coding_language.md"
-    - "软件工具": "coding/software.md"
-    - "CMU Statistical Computing": "coding/cmu.md"
   - 微分方程:
     - "MIT 18.03: Differential Equations": "ode/mit18.03.md"
     - "MIT RES.18-009: Learn Differential Equations: Up Close With Gilbert Strang And Cleve Moler": "ode/mit18.009.md" 
