@@ -1,5 +1,5 @@
 # [Info]
-site_name: 统计自学指南 # 左上角标题
+site_name: 统计学自学指南 # 左上角标题
 site_url: https://XuankaiWang.github.io
 site_author: kamdenwang
 site_description: stats-self-learning
@@ -21,8 +21,6 @@ nav:
     - "Algebra": "algebra/ladr.md"
   - 初等数论:
     - "MIT 18.781: Theory Of Numbers": "number_theory/index.md"
-  - 编程入门:
-    - "编程入门": "coding/coding.md"
   - 微分方程:
     - "MIT 18.03: Differential Equations": "ode/mit18.03.md"
     - "MIT RES.18-009: Learn Differential Equations: Up Close With Gilbert Strang And Cleve Moler": "ode/mit18.009.md" 
@@ -31,8 +29,6 @@ nav:
     - "Stanford CS205A: Mathematical Methods for Computer Vision, Robotics, and Graphics": "矩阵数值分析/cs205a.md"
     - "UW CSE559I: The art and science of positive definite matrices": "矩阵数值分析/cse559i.md"
     - "MIT 18.330 : Introduction to numerical analysis": "矩阵数值分析/mit18.330.md"
-  - 数据结构与算法:
-    - "数据结构与算法": "数据结构与算法/cs61b.md"
   - 概率论与随机过程:
     - "NTHU MATH2810: Probability": "probability/math2810.md"
     - "Yale Statistics251/551: Stochastic Process": "probability/yale251.md"
@@ -51,16 +47,17 @@ nav:
     - "UW STAT512: Introduction to Statistical Inference": "stats/stat512.md"
     - "Stanford Stat300: Theory of Statistics": "stats/stat300.md"
     - "Supplementary": "stats/sup.md"
-  - 机器学习:
-    - "NTU Machine Learning": "ml/ntuml.md"
-    - "Coursera: Machine Learning": "ml/coursera.md"
-    - "Stanford CS229: Machine Learning": "ml/cs229.md"
-    - "Supplementary": "ml/sup.md"
+  - 统计计算:
   - 凸优化:
     - "Stanford EE364A: Convex Optimization": "凸优化/stanford.md"
     - "CMU Convex Optimization": "凸优化/cmu.md"
   - 多元统计分析:
     - "NTHU STAT5191: Applied Multivariate Analysis": "多元统计分析/stat5191.md"
+  - 机器学习:
+    - "NTU Machine Learning": "ml/ntuml.md"
+    - "Coursera: Machine Learning": "ml/coursera.md"
+    - "Stanford CS229: Machine Learning": "ml/cs229.md"
+    - "Supplementary": "ml/sup.md"
   - 时间序列分析:
     - "UA Stat479: Time Series Analysis": "时间序列分析/stat479.md"
   - 离散数学与应用概率论:
@@ -78,7 +75,9 @@ nav:
     - "NTHU STAT5410: Linear Models": "linear/stat5410.md"
     - "UA Stat378: Applied Regression Analysis": "linear/stat378.md"
     - "Yale Statistics312/612: Linear Models": "linear/yale312.md"
-
+  - 非参数统计:
+  - 因果推断:
+  - 高维统计:
 
 
 # [UI]
