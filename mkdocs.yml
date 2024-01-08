@@ -47,7 +47,6 @@ nav:
     - "UW STAT512: Introduction to Statistical Inference": "stats/stat512.md"
     - "Stanford Stat300: Theory of Statistics": "stats/stat300.md"
     - "Supplementary": "stats/sup.md"
-  - 统计计算:
   - 凸优化:
     - "Stanford EE364A: Convex Optimization": "凸优化/stanford.md"
     - "CMU Convex Optimization": "凸优化/cmu.md"
@@ -75,9 +74,6 @@ nav:
     - "NTHU STAT5410: Linear Models": "linear/stat5410.md"
     - "UA Stat378: Applied Regression Analysis": "linear/stat378.md"
     - "Yale Statistics312/612: Linear Models": "linear/yale312.md"
-  - 非参数统计:
-  - 因果推断:
-  - 高维统计:
 
 
 # [UI]
