@@ -1,0 +1,17 @@
+/* Custom styles to override MkDocs defaults and enhance theme */
+
+article ul {
+    list-style-type: disc !important;
+}
+
+article ul ul {
+    list-style-type: circle !important;
+}
+
+article ul ul ul {
+    list-style-type: circle !important;
+}
+
+article ul ul ul ul {
+    list-style-type: circle !important;
+}
